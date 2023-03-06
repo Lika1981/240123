@@ -1,0 +1,45 @@
+img {
+    width: 500px;
+    height: 400px;  
+}
+h1 {
+    color: chartreuse;
+}
+h2 {
+    color: crimson;
+}
+h3 {
+    color: blue;
+}
+h4 {
+    color: brown;
+}
+h5 {
+    color: blueviolet;
+}
+h6 {
+    color: cornflowerblue;
+}
+p, pre, q {
+    color: black;
+    background-color: red;
+}
+p {
+    font-size: 14px;
+}
+a {
+    background-color: crimson;
+
+}
+p {
+    display: inline;
+}
+a {
+    display: block;
+}
+p {
+    font-size: 14px;
+    border: 1px solid red;
+
+
+}
